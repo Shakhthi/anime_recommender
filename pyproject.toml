@@ -1,0 +1,18 @@
+[project]
+name = "anime-recommender"
+version = "0.1.0"
+description = "A Keen project which recommends based on the taste & genre of the user."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.5.9",
+    "langchain>=1.3.18",
+    "langchain-community>=0.4.2",
+    "langchain-groq>=1.1.3",
+    "langchain-huggingface>=1.2.2",
+    "pandas>=3.0.5",
+    "python-dotenv>=1.2.3",
+    "sentence-transformers>=6.0.1",
+    "setuptools>=84.0.0",
+    "streamlit>=1.63.0",
+]
