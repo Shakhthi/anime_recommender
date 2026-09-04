@@ -8,3 +8,4 @@ pandas
 python-dotenv
 sentence-transformers
 langchain_huggingface
+langchain-classic
