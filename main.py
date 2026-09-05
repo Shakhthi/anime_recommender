@@ -1,5 +1,4 @@
-def main():
-    print("Hello from anime-recommender!")
+from app.app import main
 
 
 if __name__ == "__main__":

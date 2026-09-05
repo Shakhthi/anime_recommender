@@ -1,0 +1,348 @@
+2026-09-05 18:14:03,644 - INFO - Intializing Recommdation Pipeline
+2026-09-05 18:14:03,647 - INFO - No device provided, using cpu
+2026-09-05 18:14:04,365 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:04,426 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:04,701 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:04,744 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-09-05 18:14:04,980 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:04,981 - INFO - Loading SentenceTransformer model from sentence-transformers/all-MiniLM-L6-v2.
+2026-09-05 18:14:05,390 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:05,452 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:05,800 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:05,862 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/README.md "HTTP/1.1 200 OK"
+2026-09-05 18:14:06,208 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:06,302 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/modules.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:06,626 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:06,699 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:06,990 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-09-05 18:14:07,314 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:07,377 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:07,989 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/processor_config.json "HTTP/1.1 404 Not Found"
+2026-09-05 18:14:08,338 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-09-05 18:14:08,638 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/video_preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-09-05 18:14:08,980 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/preprocessor_config.json "HTTP/1.1 404 Not Found"
+2026-09-05 18:14:09,400 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:09,477 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:09,793 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:09,877 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:10,197 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:10,274 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/config.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:10,618 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:10,693 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:11,006 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-09-05 18:14:11,341 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-09-05 18:14:11,843 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-09-05 18:14:11,964 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/1110a243fdf4706b3f48f1d95db1a4f5529b4d41/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-09-05 18:14:12,355 - INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/2_Normalize/config.json "HTTP/1.1 404 Not Found"
+2026-09-05 18:14:12,662 - INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-09-05 18:14:14,294 - INFO - Pipleine intialized sucessfully...
+2026-09-05 18:14:14,297 - INFO - Recived a query animes like jujutsu kaisen
+2026-09-05 18:14:16,248 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:14:16,279 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:14:16,279 - INFO - Recommendation: **Anime recommendations similar to *Jujutsu Kaisen***  
+
+1. **Demon\u202fSlayer:\u202fKimetsu\u202fno\u202fYaiba**  
+   *Plot:* After his family is slaughtered by demons, Tanjiro Kamado becomes a demon\u2011slayer to protect his sister Nezuko, who has turned into a demon herself. He trains under the Demon\u2011Slayer Corps, mastering breathing techniques to fight powerful demon lords.  
+   *Why it matches:* Like *Jujutsu Kaisen*, it blends intense action, supernatural battles, and a dark, emotionally\u2011charged storyline centered on a young protagonist fighting cursed beings.
+
+2. **Bleach**  
+   *Plot:* Ichigo Kurosaki gains the powers of a Soul Reaper after meeting Rukia Kuchiki. He must protect the living world from Hollows—evil spirits—and later confront the complex politics of the Soul Society.  
+   *Why it matches:* The series features a modern setting, a cast of supernatural fighters, and a mix of humor and serious stakes—elements that echo *Jujutsu Kaisen*’s balance of lighthearted moments and grim battles.
+
+3. **Black\u202fClover**  
+   *Plot:* In a world where magic is everything, Asta is born without any magical ability. Determined to become the Wizard King, he trains alongside his friends, facing powerful enemies and uncovering hidden truths about his past.  
+   *Why it matches:* It offers high\u2011energy sh\u014dnen action, a focus on magic and curses, and a protagonist who overcomes seemingly impossible odds—paralleling *Jujutsu Kaisen*’s themes of perseverance and supernatural conflict.
+2026-09-05 18:16:53,217 - INFO - Recived a query animes like jujutsu kaisen
+2026-09-05 18:16:53,994 - INFO - Recived a query animes like jujutsu kaisen
+2026-09-05 18:16:54,661 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:16:54,663 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:16:54,663 - INFO - Recommendation: **Anime recommendations similar to *Jujutsu Kaisen***  
+
+1. **Demon Slayer: Kimetsu no Yaiba**  
+   *Plot:* Tanjiro Kamado becomes a demon\u2011slayer after his family is slaughtered and his sister turned into a demon. He trains under the Demon Slayer Corps, mastering breathing techniques to hunt powerful demons and restore his sister.  
+   *Why it matches:* Like *Jujutsu Kaisen*, it blends intense action, supernatural battles, and a protagonist who grows through rigorous training while confronting dark, cursed foes.
+
+2. **Blue Exorcist**  
+   *Plot:* Rin Okumura discovers he is the son of Satan and decides to become an exorcist to fight his demonic heritage. He enrolls in True Cross Academy, learning exorcism techniques and battling demonic forces that threaten humanity.  
+   *Why it matches:* The series shares the same blend of magic, demon\u2011slaying, and a coming\u2011of\u2011age arc, with a strong focus on combat choreography and a protagonist who must master his own powers to protect others.
+
+3. **Black Clover**  
+   *Plot:* Asta, born without magic in a world where magic is everything, vows to become the Wizard King. Alongside his rival Yuno, he trains at the Clover Kingdom’s Magic Knights Academy, facing powerful enemies and uncovering hidden threats.  
+   *Why it matches:* It offers high\u2011energy sh\u014dnen action, a focus on magical combat, and a protagonist who overcomes seemingly impossible odds—paralleling *Jujutsu Kaisen*’s themes of perseverance, skill development, and supernatural conflict.
+2026-09-05 18:16:55,446 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:16:55,450 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:16:55,451 - INFO - Recommendation: **Anime recommendations similar to *Jujutsu Kaisen***  
+
+1. **Demon\u202fSlayer:\u202fKimetsu\u202fno\u202fYaiba**  
+   *Plot:* Tanjiro Kamado becomes a demon\u2011slayer after his family is slaughtered and his sister Nezuko is turned into a demon. He trains under the Demon\u2011Slayer Corps, battling powerful demons while seeking a cure for Nezuko.  
+   *Why it fits:* Like *Jujutsu Kaisen*, it blends intense action, supernatural battles, and a dark, emotionally\u2011charged storyline centered on a young protagonist fighting cursed beings.
+
+2. **Blue\u202fExorcist**  
+   *Plot:* Rin Okumura discovers he is the son of Satan and decides to become an exorcist to fight his demonic heritage. He enrolls in True Cross Academy, training alongside other exorcists to protect humanity from demonic threats.  
+   *Why it fits:* The series shares the same sh\u014dnen vibe, supernatural combat, and a focus on exorcism/curse\u2011busting mechanics that echo *Jujutsu Kaisen*’s sorcerer battles.
+
+3. **Black\u202fClover**  
+   *Plot:* Asta, a boy born without magic in a world where magic is everything, joins the Magic Knights Academy to become the Wizard King. Alongside his friends, he faces powerful enemies and uncovers hidden truths about his own unique power.  
+   *Why it fits:* It offers high\u2011energy action, a magic\u2011based world, and a protagonist who overcomes odds—elements that resonate with *Jujutsu Kaisen*’s blend of fantasy, combat, and character growth.
+2026-09-05 18:19:02,912 - INFO - Recived a query animes like naruto
+2026-09-05 18:19:03,993 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:19:03,996 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:19:03,996 - INFO - Recommendation: **Anime recommendations similar to *Naruto***  
+
+1. **Bleach**  
+   *Plot:* Ichigo Kurosaki, a teenager who can see ghosts, accidentally obtains the powers of a Soul Reaper. He must protect the living world from malevolent spirits while navigating the complex hierarchy of the Soul Society.  
+   *Why it fits:* Like *Naruto*, *Bleach* centers on a youthful protagonist who gains extraordinary abilities and faces a growing list of powerful foes. The series blends action, adventure, and a strong emphasis on friendship and personal growth—core elements that fans of *Naruto* love.  
+
+2. **One Piece**  
+   *Plot:* Monkey D. Luffy, a carefree pirate with a rubber body, sets sail to find the legendary treasure, the One Piece, and become the Pirate King. Along the way, he gathers a diverse crew and battles rival pirates, corrupt governments, and supernatural threats.  
+   *Why it fits:* *One Piece* shares *Naruto*’s shounen spirit, featuring a charismatic protagonist, a vast world full of adventure, and a focus on teamwork and perseverance. Its blend of humor, epic battles, and character development mirrors the tone that makes *Naruto* engaging.  
+
+3. **My Hero Academia**  
+   *Plot:* In a world where nearly everyone has a “Quirk,” Izuku Midoriya, a Quirk\u2011less boy, inherits the powers of the greatest hero, All Might. He enrolls in U.A. High School to become a professional hero, facing both villains and personal doubts.  
+   *Why it fits:* The series echoes *Naruto*’s themes of training, rivalry, and the journey to become a leader. With its mix of action, super\u2011power battles, and a strong mentor\u2011student dynamic, *My Hero Academia* offers the same blend of excitement and emotional stakes that fans of *Naruto* enjoy.
+2026-09-05 18:25:12,240 - INFO - Recived a query animes like naruto
+2026-09-05 18:25:13,625 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:25:13,630 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:25:13,631 - INFO - Recommendation: **Anime recommendations similar to *Naruto***  
+
+1. **Bleach**  
+   *Plot:* Ichigo Kurosaki, a teenager who can see ghosts, accidentally obtains the powers of a Soul Reaper and must protect the living world from malevolent spirits called Hollows. He travels across the Soul Society, forming alliances and confronting increasingly powerful foes.  
+   *Why it fits:* Like *Naruto*, *Bleach* centers on a youthful protagonist who grows through intense battles, training, and a deepening sense of duty. The series blends action, adventure, and supernatural elements with a strong focus on friendship and personal growth.
+
+2. **Hunter × Hunter (2011)**  
+   *Plot:* Young Gon Freecss discovers that his father, a legendary Hunter, is still alive and decides to become a Hunter himself. He undergoes rigorous exams, learns powerful Nen techniques, and embarks on quests that test his resolve and forge lasting bonds.  
+   *Why it fits:* The show offers a sh\u014dnen adventure with a protagonist who trains to master unique abilities, mirroring Naruto’s journey to become Hokage. Its mix of martial arts, strategic battles, and a sprawling world appeals to fans of *Naruto*’s expansive lore and character development.
+
+3. **My Hero Academia**  
+   *Plot:* In a world where nearly everyone possesses a “Quirk,” Izuku Midoriya inherits the powerful Quirk of the greatest hero, All Might, and enrolls in U.A. High School to become a professional hero. He faces rigorous training, rivalries, and villains that threaten society.  
+   *Why it fits:* *My Hero Academia* shares *Naruto*’s themes of perseverance, mentorship, and the pursuit of a lofty goal (becoming a top hero). Its blend of action, camaraderie, and a coming\u2011of\u2011age narrative resonates with *Naruto* fans who enjoy character arcs driven by training and personal ambition.
+2026-09-05 18:29:22,315 - INFO - Recived a query animes like naruto
+2026-09-05 18:29:23,442 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:29:23,444 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:29:23,444 - INFO - Recommendation: **Anime recommendations similar to *Naruto***  
+
+1. **Bleach**  
+   *Plot:* Ichigo Kurosaki, a teenager who can see ghosts, accidentally obtains the powers of a Soul Reaper and must protect the living world from malevolent spirits called Hollows. He travels across the Soul Society, forming alliances and confronting increasingly powerful foes.  
+   *Why it fits:* Like *Naruto*, *Bleach* centers on a youthful protagonist who gains extraordinary abilities and embarks on a journey of growth, friendship, and battles against supernatural enemies. The series blends action, adventure, and shounen tropes that resonate with *Naruto* fans.
+
+2. **Hunter × Hunter (2011)**  
+   *Plot:* Young Gon Freecss discovers that his father, a legendary Hunter, is still alive and decides to become a Hunter himself. He undergoes rigorous training, joins the Hunter Exam, and later ventures into dangerous territories such as the Dark Continent, facing formidable opponents and uncovering deep mysteries.  
+   *Why it fits:* The show offers a mix of martial arts, strategic battles, and a strong emphasis on character development—elements that echo *Naruto*’s narrative style. Its shounen spirit and expansive world-building will appeal to viewers who enjoy *Naruto*’s blend of adventure and personal growth.
+
+3. **My Hero Academia**  
+   *Plot:* In a world where nearly everyone possesses a “Quirk” (superpower), Izuku Midoriya inherits the powerful Quirk of the greatest hero, All Might, and enrolls in U.A. High School to become a professional hero. He faces rigorous training, rivalries, and a looming threat from a villainous organization.  
+   *Why it fits:* *My Hero Academia* shares *Naruto*’s themes of mentorship, teamwork, and the pursuit of a lofty goal (becoming a hero/Hokage). Its action-packed sequences, shounen storytelling, and focus on character arcs make it a natural follow\u2011up for *Naruto* enthusiasts.
+2026-09-05 18:29:44,668 - INFO - Recived a query animes like solo leveling
+2026-09-05 18:29:46,273 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:29:46,277 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:29:46,277 - INFO - Recommendation: **Anime recommendations similar to *Solo Leveling***  
+
+1. **The Rising of the Shield Hero**  
+   *Plot:* Naofumi Iwatani is summoned to a fantasy world as the Shield Hero, only to be betrayed and cast out. He must survive brutal battles, acquire powerful gear, and level up to protect the kingdom.  
+   *Why it fits:* Like *Solo Leveling*, the story centers on a protagonist who starts weak, gains experience through quests, and grows into a formidable hero in a world filled with monsters and political intrigue.
+
+2. **Jujutsu Kaisen**  
+   *Plot:* Yuji Itadori inherits a cursed object and joins a school of sorcerers to fight malevolent spirits. He learns various jujutsu techniques, faces increasingly powerful curses, and steadily improves his abilities.  
+   *Why it fits:* The series emphasizes supernatural combat, skill progression, and a protagonist who continuously levels up through training and battles—core elements that resonate with *Solo Leveling* fans.
+
+3. **Attack on Titan**  
+   *Plot:* Humanity survives behind colossal walls against the relentless Titans. Eren Yeager and his friends join the military, undergo rigorous training, and uncover deeper mysteries while constantly improving their combat prowess.  
+   *Why it fits:* Though set in a more dystopian setting, the anime shares the high\u2011stakes action, world\u2011building, and the theme of a protagonist growing stronger through relentless training and experience, echoing the core appeal of *Solo Leveling*.
+2026-09-05 18:40:59,541 - INFO - Recived a query Action-packed anime with a strong rival dynamic
+2026-09-05 18:41:00,725 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:41:00,727 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:41:00,727 - INFO - Recommendation: **1. Project\u202fA\u2011Ko**  
+*Plot:* In a rebuilt Graviton City, super\u2011powered high\u2011schooler\u202fEiko Magami faces off against the brilliant Biko Daitokuji, who will stop at nothing to become Shiiko Kotobuki’s best friend. Their clash escalates into a full\u2011blown mecha battle, all while a looming spaceship watches from above.  
+*Why it fits:* The series centers on a clear, escalating rivalry between Eiko and Biko, with each encounter pushing their powers and tactics to the limit—exactly the “strong rival dynamic” you’re after, wrapped in high\u2011energy action and mecha spectacle.
+
+**2. Xenosaga\u202fThe\u202fAnimation**  
+*Plot:* In the year\u202f4767, humanity’s last hope against the alien Gnosis is the android KOS\u2011MOS, created by Shion Uzuki. When their ship is destroyed, Shion and her crew must confront the Gnosis and the moral gray areas of their own organization, leading to intense battles across space.  
+*Why it fits:* The series thrives on the tension between Shion’s ideals and the ruthless tactics of her allies and enemies. The recurring clash between human ingenuity and the Gnosis’s relentless assault creates a persistent rival dynamic that fuels the action\u2011packed narrative.
+
+**3. Akira**  
+*Plot:* In Neo\u2011Tokyo, the biker gang “Capsules” led by Kaneda clashes with the government’s secretive “Clowns.” When Tetsuo Shima awakens psychic powers, he becomes a threat that both factions must confront, sparking a city\u2011wide showdown.  
+*Why it fits:* Tetsuo’s rise and Kaneda’s determination set up a classic rivalry—one of power versus control—driving the film’s explosive action scenes. The intense conflict between the two protagonists and the looming threat of destruction make for a gripping rival dynamic.
+2026-09-05 18:41:10,074 - INFO - Recived a query Action-packed anime with a strong rival dynamic
+2026-09-05 18:41:11,511 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:41:11,513 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:41:11,513 - INFO - Recommendation: **1. Project\u202fA\u2011Ko**  
+*Plot:* In a rebuilt Graviton City, super\u2011powered high\u2011schooler\u202fEiko Magami faces off against the brilliant Biko Daitokuji, who will stop at nothing to become Shiiko Kotobuki’s best friend. Their clash escalates into a full\u2011blown mecha battle, all while a looming spaceship watches from above.  
+*Why it fits:* The series centers on a clear, escalating rivalry between Eiko and Biko, driving the action and humor. Every episode pits their powers against each other, making the “rival dynamic” the core of the story.
+
+**2. Xenosaga\u202fThe\u202fAnimation**  
+*Plot:* Humanity’s last hope against the alien Gnosis is the android KOS\u2011MOS, created by Shion Uzuki. When her ship is destroyed, Shion and her crew must confront the Gnosis and the moral gray areas of their own organization.  
+*Why it fits:* The conflict between the human protagonists and the Gnosis, as well as the internal tension between Shion and her former allies, creates a tense, action\u2011driven rivalry. The series thrives on high\u2011stakes battles and ideological clashes that keep the stakes high.
+
+**3. Akira**  
+*Plot:* In Neo\u2011Tokyo, the biker gang “Capsules” led by Kaneda clashes with the government’s secret project. When Tetsuo Shima awakens psychic powers, he becomes a threat that the authorities must contain, sparking a violent showdown.  
+*Why it fits:* Tetsuo’s rise and Kaneda’s determination set up a classic rival dynamic—one character’s power threatens the other’s world. The film’s explosive action scenes are fueled by this personal conflict, making it a quintessential action\u2011packed rivalry.
+2026-09-05 18:41:16,335 - INFO - Recived a query animes like solo leveling
+2026-09-05 18:41:17,450 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:41:17,452 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:41:17,452 - INFO - Recommendation: **Anime recommendations similar to *Solo Leveling***  
+
+1. **Tokyo Underground**  
+   *Plot:* In a hidden world beneath Tokyo, people called Elemental Users wield powers like fire, water, and lightning. Freshman Rumina Asagi and his friend Ginnosuke stumble into this underground realm, where they meet a gravity\u2011controlling ally and a life\u2011mending miko, setting off a high\u2011stakes adventure.  
+   *Why it fits:* Like *Solo Leveling*, the series centers on ordinary teens discovering latent powers and battling formidable foes in a richly built supernatural setting. The action\u2011heavy, level\u2011up\u2011style progression and focus on elemental combat echo the hunter\u2011style gameplay of the manhwa.
+
+2. **Tsubasa Chronicle**  
+   *Plot:* Syaoran, a young wizard, follows a mysterious princess, Sakura, across multiple worlds to recover her lost memories and feathers. Joined by a ninja, a runaway magician, and a quirky creature, they traverse dimensions, confronting magical threats and uncovering deeper conspiracies.  
+   *Why it fits:* The show blends action, adventure, and magic with a quest\u2011driven narrative reminiscent of *Solo Leveling*. Its emphasis on battling otherworldly enemies and the protagonist’s growth through each encounter mirrors the leveling\u2011up mechanic and epic scope of the original series.
+
+3. **Juuni Kokuki**  
+   *Plot:* Youko Nakajima, a seemingly ordinary student, is thrust into a fantastical realm when a man from another world declares her his master. Together with classmates, she must survive the onslaught of youma (dark creatures) and navigate a new kingdom’s politics while uncovering her own hidden powers.  
+   *Why it fits:* This anime offers a blend of action, fantasy, and supernatural elements, with a protagonist who must quickly adapt and grow stronger—paralleling the rapid skill\u2011development and monster\u2011hunting themes that define *Solo Leveling*.
+2026-09-05 18:41:33,554 - INFO - Recived a query Action-packed anime with a strong rival dynamic
+2026-09-05 18:41:34,664 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:41:34,664 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:41:34,665 - INFO - Recommendation: **1. Project\u202fA\u2011Ko**  
+- **Plot:** In a rebuilt Graviton City, super\u2011powered high\u2011schooler\u202fEiko Magami faces off against the brilliant Biko Daitokuji, who will stop at nothing to become Shiiko Kotobuki’s best friend. Their rivalry escalates into a full\u2011scale mecha battle, all while a looming spaceship watches from above.  
+- **Why it fits:** The series centers on a clear, escalating rivalry between two powerful teens, delivering fast\u2011paced action and intense combat scenes that keep the tension high.
+
+**2. Xenosaga\u202fThe\u202fAnimation**  
+- **Plot:** In the year\u202fT.C.\u202f4767, humanity battles the alien Gnosis while Vector engineer Shion\u202fUzuki develops the powerful android KOS\u2011MOS. After their ship is destroyed, Shion and her allies must confront the Gnosis and the complex politics of a war\u2011torn universe.  
+- **Why it fits:** The show offers high\u2011energy mecha battles and a persistent conflict with the Gnosis, creating a dynamic “rival” force that drives the action and stakes throughout the series.
+
+**3. Full\u202fMetal\u202fPanic?\u202fFumoffu**  
+- **Plot:** Back\u2011to\u2011school chaos erupts when Kaname\u202fChidori and the gun\u2011freak Sousuke\u202fSagara navigate high\u2011school life, all while Sousuke secretly protects his superior officer, Teletha Testarossa, who has taken a vacation as a student.  
+- **Why it fits:** Though comedic, the series features frequent confrontations and competitive moments—especially between Sousuke and the school’s other “war\u2011freaks”—providing a light\u2011hearted yet action\u2011filled rival dynamic.
+2026-09-05 18:42:46,761 - INFO - Recived a query Cozy school romance with a warm emotional tone
+2026-09-05 18:42:48,686 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:42:48,692 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:42:48,692 - INFO - Recommendation: **1. Boys Be...**  
+- **Plot:** Three ordinary high\u2011school boys—Kyoichi, Makoto, and Yoshihiko—navigate the ups and downs of first\u2011love, each with a different approach to romance. The series follows their daily lives, awkward crushes, and the gentle growth of their feelings for the girls around them.  
+- **Why it fits:** It’s a light\u2011hearted slice\u2011of\u2011life romance set entirely in a school environment, with a warm, heartfelt tone that celebrates the awkward yet sweet moments of young love. The characters’ emotional journeys are relatable and comforting, making it a perfect cozy school romance.
+
+**2. School Rumble**  
+- **Plot:** Tenma Tsukamoto and Kenji Harima both try to confess their feelings to the people they love, but a series of misunderstandings and comedic mishaps keep them from doing so. The show follows their daily school life, friendships, and rivalries as they navigate the chaotic world of high\u2011school romance.  
+- **Why it fits:** While it leans heavily into comedy, the core of the series is the genuine affection and emotional support the characters give each other. The school setting and the tender moments between the protagonists create a warm, comforting atmosphere that balances humor with heartfelt sentiment.
+
+**3. Onegai\u2606Teacher**  
+- **Plot:** Kei Kusanagi discovers that his new teacher, Mizuho Kazami, is actually an alien officer. As they fall in love, they must keep their relationship secret from both the school and the Galaxy Federation, leading to a mix of comedic and heartfelt situations.  
+- **Why it fits:** Despite its sci\u2011fi twist, the story centers on a sweet, school\u2011based romance that unfolds with a gentle, emotional tone. The characters’ growing affection and the supportive school environment provide a cozy backdrop that complements the romantic plot.
+2026-09-05 18:42:54,037 - INFO - Recived a query spy thriller with good comedy or horror
+2026-09-05 18:42:56,615 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:42:56,616 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:42:56,616 - INFO - Recommendation: 
+2026-09-05 18:45:55,452 - INFO - Recived a query Action-packed anime with a strong rival dynamic
+2026-09-05 18:45:56,551 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:45:56,552 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:45:56,552 - INFO - Recommendation: **1. Project\u202fA\u2011Ko**  
+*Plot:* In a rebuilt Graviton City, super\u2011powered high\u2011schooler\u202fEiko Magami faces off against the brilliant Biko Daitokuji, who will stop at nothing to become Shiiko Kotobuki’s best friend. Their rivalry escalates into a full\u2011scale mecha battle, all while a looming spaceship watches from above.  
+*Why it fits:* The series centers on a clear, escalating rivalry between two powerful teens, delivering fast\u2011paced action and intense combat scenes that keep the tension high.
+
+**2. Xenosaga\u202fThe\u202fAnimation**  
+*Plot:* In the year\u202fT.C.\u202f4767, humanity battles the alien Gnosis while Vector engineer Shion\u202fUzuki develops the powerful android KOS\u2011MOS. After their ship is destroyed, Shion and her allies must confront the Gnosis and the complex politics of a war\u2011torn universe.  
+*Why it fits:* The show features a persistent conflict between humanity and the Gnosis, creating a dynamic “rival” relationship that drives the action\u2011filled narrative and keeps stakes constantly high.
+
+**3. Full\u202fMetal\u202fPanic?\u202fFumoffu**  
+*Plot:* Back\u2011to\u2011school chaos erupts when Kaname\u202fChidori and the gun\u2011freak Sousuke\u202fSagara navigate high\u2011school life while Sousuke secretly protects her from the secret organization Mithril. Their daily misadventures are peppered with sudden battles and comedic mishaps.  
+*Why it fits:* Though lighter in tone, the series still delivers action sequences and a playful rivalry between Sousuke’s secret\u2011agent duties and the everyday school life, offering a blend of excitement and dynamic character interactions.
+2026-09-05 18:47:34,643 - INFO - Recived a query Action-packed anime with a strong rival dynamic
+2026-09-05 18:47:36,315 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:47:36,316 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:47:36,316 - INFO - Recommendation: **1. Project\u202fA\u2011Ko**  
+*Plot:* In a rebuilt Graviton City, super\u2011powered high\u2011schooler\u202fEiko Magami faces off against the brilliant Biko Daitokuji, who will stop at nothing to become Shiiko Kotobuki’s best friend. Their clash escalates into a full\u2011blown mecha battle, all while a looming spaceship watches from above.  
+*Why it fits:* The series centers on a clear, escalating rivalry between Eiko and Biko, driving the action and humor. Every episode pits their powers against each other, making the “rival dynamic” the core of the story.
+
+**2. Xenosaga\u202fThe\u202fAnimation**  
+*Plot:* In the year\u202fT.C.\u202f4767, humanity battles the alien Gnosis. Vector engineer Shion Uzuki creates the powerful android KOS\u2011MOS, but when their ship is destroyed, Shion and her crew must confront the Gnosis and the moral gray areas of their own organization.  
+*Why it fits:* The conflict between the human protagonists and the Gnosis, as well as the internal tension between Shion and her former allies, creates a tense, action\u2011driven rivalry. The series thrives on high\u2011stakes battles and ideological clashes that keep the tension high.
+
+**3. Akira**  
+*Plot:* In Neo\u2011Tokyo, the biker gang “Capsules” led by Kaneda clashes with the government’s secret project. When Tetsuo Shima awakens psychic powers, he becomes a threat that the authorities must contain, sparking a violent showdown between Tetsuo, Kaneda, and the state.  
+*Why it fits:* The story hinges on the escalating rivalry between Tetsuo and Kaneda, as well as the broader conflict with the government. The action is relentless, and the personal rivalry fuels the narrative’s intensity.
+2026-09-05 18:47:46,003 - INFO - Recived a query Cozy school romance with a warm emotional tone
+2026-09-05 18:47:47,275 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:47:47,277 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:47:47,277 - INFO - Recommendation: 1. **Boys Be...**  
+   *Plot:* Three ordinary high\u2011school boys—Kyoichi, Makoto, and Yoshihiko—navigate the ups and downs of first love, each with a different approach to romance. The series follows their everyday misadventures, friendships, and the gradual realization of what they truly want from their relationships.  
+   *Why it fits:* The show is set entirely in a high\u2011school environment and focuses on the gentle, heartfelt moments of budding romance. Its slice\u2011of\u2011life tone and warm, supportive friendships create a cozy atmosphere that feels both relatable and emotionally comforting.
+
+2. **School Rumble**  
+   *Plot:* Tenma Tsukamoto and Kenji Harima both struggle to confess their feelings to the people they love, while a cast of quirky classmates and rivals add chaos to their lives. The series balances comedic misunderstandings with sincere attempts at love, all set against the backdrop of everyday school life.  
+   *Why it fits:* Although it leans heavily into comedy, the core of the story is the earnest, often awkward pursuit of affection among classmates. The light\u2011hearted humor is tempered by genuine emotional beats—especially the moments when characters finally open up—giving the series a warm, comforting vibe.
+
+3. **Happy\u2606Lesson**  
+   *Plot:* Chitose shares his home with five female teachers, leading to a series of comedic and sometimes awkward interactions both at home and in school. As the girls navigate their own romantic feelings, the show explores the dynamics of friendship, affection, and the challenges of living together.  
+   *Why it fits:* Set in a school environment and centered on romantic relationships, the series offers a light, cozy feel. The humor is gentle, and the emotional moments—particularly the growing bonds among the characters—add a warm, heartfelt layer to the otherwise comedic premise.
+2026-09-05 18:49:03,498 - INFO - Recived a query Cozy school romance with a warm emotional tone
+2026-09-05 18:49:05,272 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:49:05,273 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:49:05,273 - INFO - Recommendation: **1. Boys Be...**  
+*Plot:* Three ordinary high\u2011school boys—Kyoichi, Makoto, and Yoshihiko—navigate the ups and downs of first love. Each episode follows their awkward attempts to win over the girls they like, while dealing with everyday school life and friendship.  
+*Why it fits:* The series is a gentle, slice\u2011of\u2011life romance that focuses on heartfelt moments and the growth of its characters. Its warm, nostalgic tone makes it feel like a cozy, comforting look at teenage love.
+
+**2. School Rumble**  
+*Plot:* Tenma Tsukamoto and Kenji Harima both struggle to confess their feelings to the girls they adore, leading to a cascade of misunderstandings and comedic mishaps. Amid school clubs, rivalries, and everyday drama, they slowly learn what it means to truly connect.  
+*Why it fits:* Though it leans heavily into comedy, the show balances humor with sincere emotional beats—especially in the evolving relationships between the main characters—creating a light\u2011hearted yet emotionally resonant school romance.
+
+**3. Onegai\u2606Teacher**  
+*Plot:* Kei Kusanagi discovers that his new teacher, Mizuho Kazami, is an alien officer. As they grow closer, they must keep their secret romance hidden from both the school and the Galaxy Federation, even going so far as to marry in secret.  
+*Why it fits:* The series blends sci\u2011fi elements with a tender, romantic storyline. Its focus on the developing bond between Kei and Mizuho, coupled with the supportive school setting, delivers a warm, emotionally engaging atmosphere that feels cozy and heartfelt.
+2026-09-05 18:49:38,500 - INFO - Recived a query anime like kaiju no.8
+2026-09-05 18:49:41,121 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:49:41,122 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:49:41,122 - INFO - Recommendation: 
+2026-09-05 18:50:08,067 - INFO - Recived a query anime like kaiju no.8 with good action
+2026-09-05 18:50:09,452 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:50:09,454 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:50:09,454 - INFO - Recommendation: 1. **Attack on Titan**  
+   *Plot:* In a world where humanity is on the brink of extinction, giant humanoid creatures called Titans devour humans. The story follows Eren Yeager and his friends as they join the Survey Corps to fight back, uncovering the truth behind the Titans and the walls that protect them.  
+   *Why it fits:* Like *Kaiju No.\u202f8*, it centers on intense, large\u2011scale battles against monstrous foes, features a gritty survival atmosphere, and delivers high\u2011energy action sequences that keep viewers on the edge of their seats.
+
+2. **Kabaneri of the Iron Fortress**  
+   *Plot:* During a zombie\u2011like outbreak, the remnants of humanity live in fortified cities while “Kabaneri”—humans fused with monsters—roam the wasteland. The protagonist, a young engineer, teams up with a fearless fighter to protect the city and uncover the mystery behind the Kabaneri.  
+   *Why it fits:* The series offers relentless action against monstrous adversaries, a post\u2011apocalyptic setting, and a protagonist who must adapt to new powers—paralleling the monster\u2011hunter vibe of *Kaiju No.\u202f8*.
+
+3. **Jujutsu Kaisen**  
+   *Plot:* High\u2011schooler Yuji Itadori accidentally becomes the host of a powerful curse after ingesting a cursed object. He joins a secret school of sorcerers to battle malevolent spirits and protect humanity from supernatural threats.  
+   *Why it fits:* It delivers fast\u2011paced, visually striking combat scenes against otherworldly enemies, and the protagonist’s rapid growth and newfound abilities echo the action\u2011driven progression seen in *Kaiju No.\u202f8*.
+2026-09-05 18:52:33,931 - INFO - Recived a query Funny but emotional anime with a found-family vibe
+2026-09-05 18:52:36,882 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:52:36,884 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:52:36,884 - INFO - Recommendation: 
+2026-09-05 18:52:41,355 - INFO - Recived a query Funny but emotional anime with a found-family vibe
+2026-09-05 18:52:43,381 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:52:43,407 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:52:43,407 - INFO - Recommendation: **1. Happy\u2606Lesson**  
+*Plot:* Hitotose Chitose, a lonely high\u2011schooler, suddenly finds himself living with five female teachers who claim to be his “mothers.” As they all share a house and daily lessons, Chitose learns to trust, laugh, and grow with this unconventional family.  
+*Why it fits:* The series balances light\u2011hearted comedy with heartfelt moments, and the “found\u2011family” theme is central—Chitose’s new household becomes a supportive, loving unit that feels more like family than a mere living arrangement.
+
+**2. Onegai\u2606Twins**  
+*Plot:* Programmer Maiku Kamishiro moves into a blue house to uncover his past, only to have two girls—both claiming to be his twin—show up at his door. With no way to prove who is truly related, Maiku lets both stay, turning his life into a comedic yet touching exploration of identity and belonging.  
+*Why it fits:* The show blends humor with emotional stakes, and the dynamic of two potential “siblings” living together creates a quirky, heartwarming found\u2011family vibe that keeps viewers laughing while rooting for genuine connections.
+
+**3. Barakamon**  
+*Plot:* Calligrapher Seishuu Handa is sent to a remote village after a public outburst. There he meets a lively group of villagers, especially a spirited little girl, who gradually help him heal, rediscover his passion, and form a new, tight\u2011knit community.  
+*Why it fits:* Though not a harem or school setting, Barakamon delivers a perfect mix of comedy and touching moments. The protagonist’s journey from isolation to a supportive, “found” family of villagers showcases the emotional depth and humor the user is looking for.
+2026-09-05 18:53:03,978 - INFO - Recived a query Funny but emotional anime with a found-family vibe
+2026-09-05 18:53:05,975 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:53:05,986 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:53:05,986 - INFO - Recommendation: **1. Happy\u2606Lesson**  
+- **Plot**: Hitotose Chitose, a lonely high\u2011schooler, suddenly finds himself living with five female teachers who claim to be his “mothers.” As they all share a house, daily life turns into a mix of chaotic humor, heartfelt moments, and unexpected family bonds.  
+- **Why it fits**: The series is a light\u2011hearted comedy that never shies away from touching scenes—especially when the “family” members support each other through personal struggles. Its core theme is a found\u2011family vibe, making it both funny and emotionally resonant.
+
+**2. Onegai\u2606Twins**  
+- **Plot**: Programmer Maiku Kamishiro moves into a blue house to uncover his mysterious past, only to discover two girls claiming to be his identical twins. With no way to prove who is real, he lets both stay, leading to comedic misunderstandings and growing affection.  
+- **Why it fits**: The show blends slap\u2011stick humor with genuine emotional beats as Maiku navigates the complexities of a makeshift family. The twin\u2011sibling dynamic creates a warm, found\u2011family atmosphere that balances laughs with heartfelt moments.
+
+**3. Futakoi**  
+- **Plot**: After returning to his hometown, Nozomu Futami encounters a local legend about twin girls who love the same man. As he gets drawn into the town’s quirky romance, he meets several pairs of twins, each with their own story, turning his life into a comedic yet touching exploration of love and belonging.  
+- **Why it fits**: Futakoi’s premise centers on twin relationships that feel like a second family. The series delivers plenty of humor while also exploring the emotional depth of these bonds, making it a perfect blend of comedy and heartfelt family vibes.
+2026-09-05 18:53:12,221 - INFO - Recived a query animes like naruto
+2026-09-05 18:53:13,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-05 18:53:13,355 - INFO - Recommendation generated sucesfully...
+2026-09-05 18:53:13,355 - INFO - Recommendation: **Anime recommendations that capture the spirit of *Naruto***  
+
+1. **Ninin ga Shinobuden**  
+   *Plot:* Kaede, a regular high\u2011school girl, is interrupted by Shinobu, a ninja\u2011in\u2011training who must steal one of Kaede’s panties to pass an exam. Their clash sparks an unlikely friendship, pulling Kaede into a world of partying ninjas, a pac\u2011man\u2011like master named Onsokumaru, and comedic misadventures.  
+   *Why it fits:* Like *Naruto*, it centers on ninjas and martial arts, but adds a light\u2011hearted, comedic tone that mirrors Naruto’s early shounen antics. The dynamic between a normal girl and a determined ninja echoes Naruto’s own journey of friendship and growth.
+
+2. **Tsubasa Chronicle**  
+   *Plot:* Syaoran, a young scholar, discovers his childhood friend Princess Sakura has vanished into a multiverse after a mysterious excavation. Joined by a cast of quirky allies—including a ninja from Japan, a wandering magician, and a mischievous creature—Syaoran travels across dimensions to recover Sakura’s feathers and restore her memory.  
+   *Why it fits:* The series blends action, adventure, and supernatural powers, much like *Naruto*. Its focus on a team of diverse characters, each with unique abilities, mirrors Naruto’s camaraderie and the importance of teamwork in battles.
+
+3. **Tokyo Underground**  
+   *Plot:* Rumina Asagi and his friend Ginnosuke discover a hidden world beneath Tokyo where “Elemental Users” wield powers over fire, water, lightning, and more. When they meet a gravity\u2011controlling girl and a life\u2011miko, their ordinary lives transform into a grand adventure across the underground realm.  
+   *Why it fits:* This anime shares *Naruto*’s core themes of martial arts, supernatural abilities, and a coming\u2011of\u2011age journey. The diverse elemental powers and the protagonist’s growth from an average student to a powerful user echo Naruto’s own evolution as a ninja.
