@@ -1,5 +1,11 @@
 # Anime Recommender
 
+Install the project into the active virtual environment once. Editable mode keeps imports connected to the working files:
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -e .
+```
+
 ## Running the project
 
 From the repository root, the recommended command is:
